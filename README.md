@@ -3,8 +3,11 @@ LAB MANAGEMENT SYSTEM
 **Team Name: Hackory**
 
 Member 1: Afsheen Aziz Onnarakkattayil - cusat
+
 Member 2: Aiswarya k Binu - cusat
+
 Member 3: Catherin Maria Jacob - cusat
+
 
 Hosted Project Link: [Insert Hosted Project Link]
 

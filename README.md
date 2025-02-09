@@ -1,6 +1,6 @@
 LAB MANAGEMENT SYSTEM
 
-Team Name: Hackory
+**Team Name: Hackory**
 
 Member 1: Afsheen Aziz Onnarakkattayil - cusat
 Member 2: Aiswarya k Binu - cusat
